@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body {
+    background-color: #E8E8E8;
+    color: #2D49A6;
+}
+
+/* Link não visitado */
+a:link {
+    color: #334D5C;
+    text-decoration: none;
+}
+
+/* Link visitado */
+
+a:visited {
+    color: #E07C45;
+}
