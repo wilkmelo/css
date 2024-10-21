@@ -16,3 +16,15 @@ a:link {
 a:visited {
     color: #E07C45;
 }
+
+/* Passando o mouse sobre o link */
+
+a:hover {
+    color: #F2CB00;
+}
+
+/* Link selecionado */
+
+a:active {
+    color: #00BF9B;
+}

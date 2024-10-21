@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body {
+    background-color: #E8E8E8;
+    color: #2D49A6;
+}
+
+ul {
+    background-color: #3399FF;
+    padding: 20px 0px 20px 40px;
+}
+
+ul li {
+    background-color: #CCE5FF;
+    margin: 5px 0px;
+}
