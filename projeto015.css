@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+/* Seletor tipo */
+p {
+    color: green;
+}
+
+/* Seletor descendente */
+p span {
+    color: red;
+}
+
+/* Seletor pseudo-classe */
+a:hover {
+    color: gold;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+/* ID identificação única */
+#menu {
+    color: blue;
+}
+
+#conetudo {
+    color: indigo;
+}
+
+/* Seletor tipo classe */
+.cont_destaq {
+    color: orange;
+}
+
+.mais_acessado {
+    font-size: 22px;
+}
