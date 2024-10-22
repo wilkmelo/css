@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+#cabecalho {
+    background-color: gold;
+    margin-top: 80px;
+    margin-bottom: 70px;
+    margin-right: 110px;
+    margin-left: 110px;
+}
+
+#menu {
+    background-color: green;
+    margin: 65px 55px 75px 105px;
+}
+
+#conteudo {
+    background-color: #004500;
+    margin: 15px 30px;
+}
+
+#rodape {
+    background-color: #850000;
+    margin: 115px;
+}
