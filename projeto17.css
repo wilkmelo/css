@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+p.pontilhada {
+    border-style: dotted;
+}
+
+p.tracejada {
+    border-style: dashed;
+}
+
+p.solida {
+    border-style: solid;
+}
+p.dupla {
+    border-style: double;
+}
+
+p.ranhura {
+    border-style: groove;
+}
+
+p.cume {
+    border-style: ridge;
+}
+p.inset {
+    border-style: inset;
+}
+
+p.outset {
+    border-style: outset;
+}
+
+p.largura_borda {
+    border-width: 2px;
+    border-style: solid;
+    border-color: gold;
+}
+
+p.cor_borda_dif {
+    border-width: 10px;
+    border-style: solid;
+    border-color: red yellow aqua indigo;
+}
+
+p.cor_borda_dif_per {
+background-color: gold;
+border-left: 6px solid red;
+border-top: 15px solid green;
+border-right: 6px dotted indigo;
+border-bottom: 15px dashed aqua;
+}
+
+p.borda_dif {
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+}
+
+p.borda_redonda {
+    border: 2px solid green;
+    border-radius: 5px;
+}
