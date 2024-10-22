@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body{
+    background-color: #E8E8E8;
+    color: #2D49A6;
+}
+
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table {
+    width: 100%;
+}
+th {
+    text-align: left;
+    color: white;
+    background-color: #264696;
+}
+
+
